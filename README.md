@@ -1,3 +1,33 @@
+# Data Analysis Test for Data Analyst Position
+
+## Project Overview
+
+This project is part of a test for the Data Analyst position. The goal is to preprocess raw data, load it into SQL Server, perform SQL queries as required by the employer, and visualize the data through dashboards.
+
+## Directory Structure
+
+```
+.
+├── assets/
+│   ├── Invest.png
+│   ├── Revenue.png
+│   └── Summary.png
+├── data/
+│   ├── raw/
+│   │   └── Data Scientist-Analyst position - Requirement.xlsx
+│   └── clean/
+│       ├── invest_cleaned.csv
+│       └── revenue_cleaned.csv
+├── reports/
+│   └── MapPacificSingapore.pbix
+├── scripts/
+│   └── MapPacificSingapore.sql
+├── src/
+│   ├── preprocessing.ipynb
+│   └── csv_to_ssms.ipynb
+└── README.md
+```
+
 ## Process
 
 ### 1. Data Preprocessing
