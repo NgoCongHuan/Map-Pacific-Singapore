@@ -70,10 +70,10 @@ The final step involves creating dashboards to visualize the data. The Power BI 
 
 ## Contact
 
-For any questions or further information, please contact Ngô Công Huân at ngohuan18112002@gmail.com
+For any questions or further information, please contact me at ngohuan18112002@gmail.com
 
 ---
 
 I look forward to discussing this project and my approach with you. Thank you for your consideration.
 
-Ngô Công Huân
+Ngo Cong Huan
