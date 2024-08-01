@@ -32,22 +32,22 @@ This project is part of a test for the Data Analyst position. The goal is to pre
 
 ### 1. Data Preprocessing
 
-The raw data is provided in ![Data Scientist-Analyst position - Requirement.xlsx](data/raw/Data%20Scientist-Analyst%20position%20-%20Requirement.xlsx). The preprocessing steps are performed in the Jupyter notebook ![preprocessing.ipynb](src/preprocessing.ipynb), which includes:
+The raw data is provided in ![Data Scientist-Analyst position - Requirement.xlsx](data/raw). The preprocessing steps are performed in the Jupyter notebook ![preprocessing.ipynb](src), which includes:
 
 - Cleaning and transforming the data
-- Splitting the data into two CSV files: ![invest_cleaned.csv](data/clean/invest_cleaned.csv) and ![revenue_cleaned.csv](data/clean/revenue_cleaned.csv)
+- Splitting the data into two CSV files: ![invest_cleaned.csv](data/clean) and ![revenue_cleaned.csv](data/clean)
 
 ### 2. Loading Data into SQL Server
 
-The cleaned CSV files are loaded into SQL Server using the Jupyter notebook ![csv_to_ssms.ipynb](src/csv_to_ssms.ipynb). This notebook contains the necessary Python code to connect to SQL Server and load the data from the CSV files.
+The cleaned CSV files are loaded into SQL Server using the Jupyter notebook ![csv_to_ssms.ipynb](src). This notebook contains the necessary Python code to connect to SQL Server and load the data from the CSV files.
 
 ### 3. SQL Queries
 
-The SQL queries required by the employer are performed and saved in ![MapPacificSingapore.sql](scripts/MapPacificSingapore.sql). This script includes various queries to analyze the investment and revenue data.
+The SQL queries required by the employer are performed and saved in ![MapPacificSingapore.sql](scripts). This script includes various queries to analyze the investment and revenue data.
 
 ### 4. Data Visualization
 
-The final step involves creating dashboards to visualize the data. The Power BI report ![MapPacificSingapore.pbix](reports/MapPacificSingapore.pbix) includes:
+The final step involves creating dashboards to visualize the data. The Power BI report ![MapPacificSingapore.pbix](reports) includes:
 
 - Investment Dashboard:
   ![Invest Dashboard](assets/MapPacificSingapore-Invest.png)
