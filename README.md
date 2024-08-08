@@ -50,12 +50,15 @@ The SQL queries required by the employer are performed and saved in [MapPacificS
 The final step involves creating dashboards to visualize the data. The Power BI report [MapPacificSingapore.pbix](reports) includes:
 
 - Investment Dashboard:
+  
   ![Invest Dashboard](assets/MapPacificSingapore-Invest.png)
   
 - Revenue Dashboard:
+  
   ![Revenue Dashboard](assets/MapPacificSingapore-Revenue.png)
   
 - Summary Dashboard:
+  
   ![Summary Dashboard](assets/MapPacificSingapore-Summary.png)
 
 ## Dependencies
