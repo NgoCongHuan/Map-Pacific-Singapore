@@ -51,15 +51,15 @@ The final step involves creating dashboards to visualize the data. The Power BI 
 
 - Investment Dashboard:
   
-  ![Invest Dashboard](assets/MapPacificSingapore-Invest.png)
+  ![Invest Dashboard](assets/images/MapPacificSingapore-Invest.png)
   
 - Revenue Dashboard:
   
-  ![Revenue Dashboard](assets/MapPacificSingapore-Revenue.png)
+  ![Revenue Dashboard](assets/images/MapPacificSingapore-Revenue.png)
   
 - Summary Dashboard:
   
-  ![Summary Dashboard](assets/MapPacificSingapore-Summary.png)
+  ![Summary Dashboard](assets/images/MapPacificSingapore-Summary.png)
 
 ## Dependencies
 
